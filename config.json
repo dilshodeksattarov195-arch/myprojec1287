@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cacheverify",
+        "uuid": 10034739,
+        "checksum": "ky2roc"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
